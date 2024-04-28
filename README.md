@@ -9,5 +9,5 @@ A run through of a weird project I found online. Playing Doom on a McDonald’s 
 Steps:
 1. Buy the happy meal toy on ebay
 
-<img src="https://www.ebay.com.au/itm/374719379152" alt="ebay listing for McDonald's Tetris game console" width="200"/>
+<img src="https://github.com/thequietlife/mcdonalds-happy-meal-toy-doom/blob/1681fd8eb08734b319269eedcd1abb8bcd96f94a/images/ebay%20shopping%20time.png" alt="ebay listing for McDonald's Tetris game console" width="200"/>
 
