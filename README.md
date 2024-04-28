@@ -14,4 +14,8 @@ Steps:
 2. Buy a Raspberry Pi Zero 2W, Pimoroni Display HAT mini or 3.5" LCD Touchscreen for Raspberry Pi. I bought the Raspberry Pi Zero 2W and soldered on the 40 pin header (oof)
 
 3. Open up device and time to cut out the pcb
-<img src="https://github.com/thequietlife/mcdonalds-happy-meal-toy-doom/blob/cdcd6a85d3bf8038fe3e1e9a78a6568dd5930fa7/images/time%20to%20snip%2C%20snip.jpg" alt="close up of pliers cutting wire connecting console to pcb" width="200"/> 
+<img src="https://github.com/thequietlife/mcdonalds-happy-meal-toy-doom/blob/cdcd6a85d3bf8038fe3e1e9a78a6568dd5930fa7/images/time%20to%20snip%2C%20snip.jpg" alt="close up of pliers cutting wire connecting console to pcb" width="200"/>
+
+4. Set up the Raspberry Pi
+
+(brb)
