@@ -9,7 +9,7 @@ A run through of a weird project I found online. [Playing Doom on a McDonald’s
 🪛 Tools needed: triangle screwdriver, diagonal cutters or similar tool to cut wires, bluetack
 
 Steps:
-1. Buy the happy meal toy on ebay
+1. Buy the nugget tetris McDonalds happy meal toy on ebay
 
 2. Buy a Raspberry Pi Zero 2W, Pimoroni Display HAT mini or 3.5" LCD Touchscreen for Raspberry Pi. I bought the Raspberry Pi Zero 2W and soldered on the 40 pin header (oof)
 
@@ -18,3 +18,4 @@ Steps:
 
 4. Set up the Raspberry Pi
 One of the cool things about this project was using old tech I had lying around, like the micro SD card adapter, from my Raspberry Pi 2
+<img src="https://github.com/thequietlife/mcdonalds-happy-meal-toy-doom/blob/38f8db56e2689ac6694773200177b62ea6bfc48e/images/raspberry%20pi%202%20.png" alt="Raspberry Pi 2 box and micro SD card adapter" width="300"/>
