@@ -6,7 +6,7 @@ A run through of a weird project I found online. [Playing Doom on a McDonald’s
 
 <img src="https://github.com/thequietlife/mcdonalds-happy-meal-toy-doom/blob/9a902c9648825d651461627d6c67a9d9b9e5dc00/images/inside.jpeg" alt="inside box - mcdonald's stickers, nugget shaped tetris game" width="300"/>
 
-🪛 Tools needed: triangle screwdriver, diagonal cutters or similar tool to cut wires, bluetack
+🪛 Tools needed: triangle screwdriver, diagonal cutters or similar tool to cut wires, blu tack
 
 Steps:
 1. Buy the nugget tetris McDonalds happy meal toy on ebay
@@ -35,5 +35,11 @@ The soldering is not pretty but it works
 8. A few tabs later I made a bit more progress
 <img src="https://github.com/thequietlife/mcdonalds-happy-meal-toy-doom/blob/1998ea8d4d0ee962cdfed4f2f62299d1fdecb9be/images/just%20a%20few%20tabs.jpeg" alt="screen showing several tabs opened to stackoverflow instructions on how to install doom" width="300"/>
 
-Progress! Chocolate Doom 🍫
-<img scr="https://github.com/thequietlife/mcdonalds-happy-meal-toy-doom/blob/a11a82e05b11160dfa1d8d5bded3d2143e7d56f5/images/progress.png" alt="screen showing Chocolate Doom" width="300"/>
+9. Progress! 🍫 Chocolate Doom 
+<img src="https://github.com/thequietlife/mcdonalds-happy-meal-toy-doom/blob/a11a82e05b11160dfa1d8d5bded3d2143e7d56f5/images/progress.png" alt="screen showing Chocolate Doom" width="300"/>
+
+10. Pew Pew! It's Doom
+<img src="https://github.com/thequietlife/mcdonalds-happy-meal-toy-doom/blob/7bd6c349cba3807a98962e74ffe278c19aa2301b/images/doom%20anyone.png" alt="screen showing the game Doom" width="300"/>
+
+11. Time for the blu Tack and bundle it all up
+<img src="https://github.com/thequietlife/mcdonalds-happy-meal-toy-doom/blob/7bd6c349cba3807a98962e74ffe278c19aa2301b/images/project%20complete.png" alt="close up of the nugget shaped happy meal toy with Doom on the screen" width="300"/>
