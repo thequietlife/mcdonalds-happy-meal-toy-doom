@@ -21,3 +21,9 @@ Steps:
 
 5. Raspbian install
 <img src="https://github.com/thequietlife/mcdonalds-happy-meal-toy-doom/blob/4e8da7dde7c8862c0998d1e13e35827d6d3a5f77/images/rasp%20pi%20set%20up.jpeg" alt="screen showing Raspbian being installed" width="300"/>
+
+6. Wait what? oof the header needs to be soldered on. This [YT video](https://youtu.be/UDdbaMk39tM?si=J9jkcMfrUf6U2EmM) by Bas van der Sluis saved me 🫡
+<img src="https://github.com/thequietlife/mcdonalds-happy-meal-toy-doom/blob/a5cc7ad58075f7dcb7a3381d3a607bfec172f64b/images/soldering%20the%20header.png" alt="raspberry pi with the header pins unattached" width="300"/>
+The soldering is not pretty but it works
+
+<img src="https://github.com/thequietlife/mcdonalds-happy-meal-toy-doom/blob/a5cc7ad58075f7dcb7a3381d3a607bfec172f64b/images/soldering%20time.jpeg" alt="raspberry pi on a breadboard midway through soldering the header" width="300"/>
