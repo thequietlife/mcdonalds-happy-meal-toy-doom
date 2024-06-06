@@ -19,3 +19,6 @@ Steps:
 4. Set up the Raspberry Pi
 One of the cool things about this project was using old tech I had lying around, like the micro SD card adapter, from my Raspberry Pi 2
 <img src="https://github.com/thequietlife/mcdonalds-happy-meal-toy-doom/blob/38f8db56e2689ac6694773200177b62ea6bfc48e/images/raspberry%20pi%202%20.png" alt="Raspberry Pi 2 box and micro SD card adapter" width="300"/>
+
+5. Raspbian install
+<img src="https://github.com/thequietlife/mcdonalds-happy-meal-toy-doom/blob/4e8da7dde7c8862c0998d1e13e35827d6d3a5f77/images/rasp%20pi%20set%20up.jpeg" alt="screen showing Raspbian being installed" width="200"/>
