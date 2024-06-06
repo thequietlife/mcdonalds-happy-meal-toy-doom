@@ -1,4 +1,4 @@
-## McDonalds happy meal toy
+## Playing Doom on a McDonalds happy meal toy
 
 A run through of a weird project I found online. [Playing Doom on a McDonald’s happy meal toy](https://youtu.be/4DH9DLzvx5Y?si=JyPXOHTMZptnwwKq)
 
@@ -17,5 +17,4 @@ Steps:
 <img src="https://github.com/thequietlife/mcdonalds-happy-meal-toy-doom/blob/cdcd6a85d3bf8038fe3e1e9a78a6568dd5930fa7/images/time%20to%20snip%2C%20snip.jpg" alt="close up of pliers cutting wire connecting console to pcb" width="200"/>
 
 4. Set up the Raspberry Pi
-
-(brb)
+One of the cool things about this project was using old tech I had lying around, like the micro SD card adapter, from my Raspberry Pi 2
