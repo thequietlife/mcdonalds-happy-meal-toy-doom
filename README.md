@@ -1,6 +1,6 @@
 ## Playing Doom on a McDonalds happy meal toy
 
-A run through of a weird project I found online. [Playing Doom on a McDonald’s happy meal toy](https://youtu.be/4DH9DLzvx5Y?si=JyPXOHTMZptnwwKq) and presented at ✨ ComfyCon AU 2024 Winter
+A run through of a weird project I found online. [Playing Doom on a McDonald’s happy meal toy](https://youtu.be/4DH9DLzvx5Y?si=JyPXOHTMZptnwwKq) and presented at ✨ [ComfyCon AU 2024 Winter](https://youtu.be/JZZSecz5OcQ?si=7z_vD14L7oo-RbpU)
 
 <img src="https://github.com/thequietlife/mcdonalds-happy-meal-toy-doom/blob/d51aca9285826673e02e7017e1dbab8fca7fea76/images/box.jpeg" alt="happy meal box" width="300"/>
 
