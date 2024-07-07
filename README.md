@@ -1,4 +1,4 @@
-## Playing Doom on a McDonalds happy meal toy
+## Playing Doom on a McDonald's happy meal toy
 
 A run through of a weird project I found online. [Playing Doom on a McDonald’s happy meal toy](https://youtu.be/4DH9DLzvx5Y?si=JyPXOHTMZptnwwKq) and presented at ✨ [ComfyCon AU 2024 Winter](https://youtu.be/JZZSecz5OcQ?si=7z_vD14L7oo-RbpU)
 
@@ -9,7 +9,7 @@ A run through of a weird project I found online. [Playing Doom on a McDonald’s
 🪛 Tools needed: triangle screwdriver, diagonal cutters or similar tool to cut wires, blu tack
 
 Steps:
-1. Buy the nugget tetris McDonalds happy meal toy on ebay
+1. Buy the nugget tetris McDonald's happy meal toy on ebay
 
 2. Buy a Raspberry Pi Zero 2W, Pimoroni Display HAT mini or 3.5" LCD Touchscreen for Raspberry Pi. I bought the Raspberry Pi Zero 2W and soldered on the 40 pin header (oof)
 
